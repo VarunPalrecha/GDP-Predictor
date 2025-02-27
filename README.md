@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/gdp-prediction.git
+git clone https://github.com/VarunPalrecha/GDP-Predictor
 
 Navigate to the project directory:
 
@@ -42,7 +42,7 @@ pip install pandas numpy scikit-learn
 
 Usage
 
-Ensure your dataset (Data.csv) is available in the specified path.
+Ensure your dataset (FinalData_1.xlsx) is available in the specified path.
 
 Run the script:
 
@@ -92,4 +92,4 @@ This project is licensed under the MIT License.
 
 Author
 
-Your Name
+Varun Palrecha
